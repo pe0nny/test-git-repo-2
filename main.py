@@ -7,4 +7,4 @@ for i in range(10):
     print(i)
 
 
-print(factorial(5))
+print(factorial(10))
